@@ -10,7 +10,7 @@ function App() {
       <p>ローカルサーバの立ち上げ方は、ディレクトリを変えた後に'npm run dev'</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          Scount is {count}
         </button>
       </div>
     </>
